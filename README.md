@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Technology, Music, Art, Nature, Biology, Space, and being kind. Oh, dogs, cats and dinosaurs too.
 - 🌱 I’m currently learning ... new things.
 - 💞️ I’m looking to collaborate on ... ideas and projects. Honestly idk yet. 
-- 📫 How to reach me ...
+- 📫 How to reach me ... lmcmurtrie89@gmail.com
 
 <!---
 LukeMcM89/LukeMcM89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
