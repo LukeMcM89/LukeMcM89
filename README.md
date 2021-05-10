@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukeMcM89
 - 👀 I’m interested in ... Technology, Music, Art, Nature, Biology, Space, and being kind. Oh, dogs, cats and dinosaurs too.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... new things.
+- 💞️ I’m looking to collaborate on ... ideas and projects. Honestly idk yet. 
 - 📫 How to reach me ...
 
 <!---
